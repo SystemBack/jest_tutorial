@@ -1,0 +1,23 @@
+{
+  "name": "jest_tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "Jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EduardCerv/jest_tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EduardCerv/jest_tutorial/issues"
+  },
+  "homepage": "https://github.com/EduardCerv/jest_tutorial#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "jest": "^26.1.0"
+  }
+}
